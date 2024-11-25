@@ -1,0 +1,8 @@
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\bin\Debug\Suma_de_dos_numeros.dll
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\bin\Debug\Suma_de_dos_numeros.pdb
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\obj\Debug\Suma_de_dos_numeros.csproj.AssemblyReference.cache
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\obj\Debug\Suma_de_dos_numeros.UserControl1.resources
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\obj\Debug\Suma_de_dos_numeros.csproj.GenerateResource.cache
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\obj\Debug\Suma_de_dos_numeros.csproj.CoreCompileInputs.cache
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\obj\Debug\Suma_de_dos_numeros.dll
+C:\Users\papip\Desktop\VS\Suma_de_dos_numeros\obj\Debug\Suma_de_dos_numeros.pdb
